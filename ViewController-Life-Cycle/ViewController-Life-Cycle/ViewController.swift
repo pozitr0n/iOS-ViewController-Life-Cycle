@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     let openSecondViewController: UIButton = {
        
         let button = UIButton()
+        
         button.setTitle("Go to second VC", for: .normal)
         button.backgroundColor = .orange
         button.translatesAutoresizingMaskIntoConstraints = false
