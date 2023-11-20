@@ -27,8 +27,10 @@ class SecondViewController: UIViewController {
     }
     
     override func loadView() {
+        
         print("2. loadView")
         view = CustomVC() as UIView
+        
     }
     
     override func viewDidLoad() {
