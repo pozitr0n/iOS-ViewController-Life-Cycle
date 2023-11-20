@@ -28,9 +28,12 @@ class SecondViewController: UIViewController {
     }
     
     override func viewDidLoad() {
+        
         super.viewDidLoad()
+        
         view.backgroundColor = .systemTeal
         print("3. viewDidLoad")
+        
     }
     
     override func viewWillAppear(_ animated: Bool) {
