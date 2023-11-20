@@ -14,8 +14,11 @@ class SecondViewController: UIViewController {
     }
     
     init() {
+        
+        // initialization -> first step
         print("1. init")
         super.init(nibName: nil, bundle: nil)
+        
     }
     
     required init?(coder: NSCoder) {
