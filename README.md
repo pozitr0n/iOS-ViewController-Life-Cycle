@@ -3,4 +3,4 @@
 [![License](http://img.shields.io/badge/license-GPL-lightgrey.svg?style=flat)](https://www.gnu.org/licenses/gpl-3.0.html)
 
 # iOS-ViewController-Life-Cycle
-### Demo of the life cycle of the ViewController at Swift.
+### Demo of the life cycle of the ViewController at Swift
